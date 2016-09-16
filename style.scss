@@ -20,7 +20,7 @@ html {
 body {
 	background: $black;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $red;
 }
 
 .container {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #ff0000;
+  color: $pink;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #ff0000;
+    color: $pink;
   }
 }
 
