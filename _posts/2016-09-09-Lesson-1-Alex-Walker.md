@@ -6,6 +6,7 @@ permalink: /lesson-1-alex-walker/
 source-id: 1CWSi94o7nd0BrhA1nRnP5UWfEGYT2za4aD-VDqRcED0
 published: true
 ---
+<centre>
 <table>
   <tr>
     <th>Title:  </th>
@@ -62,5 +63,5 @@ published: true
     <td>Next time I will sit next to people who can listen and do not ask me questions that have just been answered. I will try to work more independently.</td>
   </tr>
 </table>
-
+</centre>
 
