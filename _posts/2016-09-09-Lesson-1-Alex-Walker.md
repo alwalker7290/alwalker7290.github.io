@@ -9,8 +9,14 @@ published: true
 <table>
   <tr>
     <th>Title:  </th>
+  </tr>
+  <tr>
     <td>My first attempts at publishing using GitHub  </td>
+    </tr>
+    <tr>
     <th> Date:  </th>
+    </tr>
+    <tr>
     <td>09/09/16</td>
   </tr>
 </table>
