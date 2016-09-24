@@ -8,6 +8,9 @@ published: true
 ---
 <centre>
 <table>
+<tr>
+tr:nth-child(even) {background-color: #f2f2f2}
+</tr>
   <tr>
     <th>Title:  </th>
   </tr>
