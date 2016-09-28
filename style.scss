@@ -15,14 +15,35 @@
 
 html {
   font-size: 100%;
-  background: url(http://wallpapercave.com/wp/DCWHIOy.jpg) no-repeat center center fixed; 
 }
 
+table, th, td {
+   border: 1px solid white;
+}
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
 
 body {
-	background: url(http://wallpapercave.com/wp/DCWHIOy.jpg) no-repeat center center fixed; 
+	background: url( http://www.planwallpaper.com/static/images/abstract-colourful-cool-wallpapers-55ec7905a6a4f.jpg );
   font: 18px/1.4 $helvetica;
-  color: $red;
+  color: #ffffff;
 }
 
 .container {
@@ -30,11 +51,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background:rgba(179, 179, 179, 0.4);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $red;
+  color: #4ddbff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -49,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $red;
+    color: inherit;
   }
 }
 
@@ -63,7 +85,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $red;
+  color: #ff3300;
 }
 
 p {
@@ -71,11 +93,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $pink;
+    color: $blue;
   }
 }
 
@@ -119,7 +141,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $red;
+  color: #ff0000;
 }
 
 // Specify the color of the selection
@@ -277,7 +299,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: 00FF0B;
+  background-color: $lightGray;
 }
 
 footer {
@@ -289,19 +311,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-table, td {
-	border-collapse: collapse;
-	border: 1px solid black;
-	width: 100%;
-}
-	tr:nth-child(even) {background-color: #f2f2f2}
-
- th {
- 	padding: 15px;
- 	border: 1px solid black;
- 	 background-color: #4CAF50;
-         color: white;
-         width: 35%;
- }
-  
