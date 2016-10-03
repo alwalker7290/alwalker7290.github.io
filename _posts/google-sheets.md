@@ -1,10 +1,6 @@
 ---
-title: Lesson 4- Google Sheets
 layout: post
-author: alex.walker
-permalink: /google-sheets/
-source-id: 1fZQF7nxuqXADMZWQ17NiABy6WORFSS7sCNt-JMbSlnw
-published: true
+title: Google Sheets!
 ---
 <h1> Lesson 4 learning about using Google Sheets </h1>
 
