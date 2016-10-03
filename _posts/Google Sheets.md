@@ -1,3 +1,11 @@
+---
+title: Lesson 3 - Alex Walker
+layout: post
+author: alex.walker
+permalink: /lesson-3---alex-walker/
+source-id: 1fZQF7nxuqXADMZWQ17NiABy6WORFSS7sCNt-JMbSlnw
+published: true
+---
 <h1> Lesson 4 learning about using Google Sheets </h1>
 
 <p> I searched on Google, "How do I embed Google Sheets onto my website?" The results were as follows..</p>
