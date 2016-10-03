@@ -8,6 +8,8 @@ published: true
 ---
 I created a Google Sheets and I wondered "How do I embed this into one of my posts. It looked like this:
 
+
+
 I searched on Google this:
 
 So I did and voilaaaaaa, this is what I got!
