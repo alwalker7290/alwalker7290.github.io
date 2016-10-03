@@ -1,8 +1,8 @@
 ---
-title: Lesson 3 - Alex Walker
+title: Lesson 4- Google Sheets
 layout: post
 author: alex.walker
-permalink: /lesson-3---alex-walker/
+permalink: /google-sheets/
 source-id: 1fZQF7nxuqXADMZWQ17NiABy6WORFSS7sCNt-JMbSlnw
 published: true
 ---
