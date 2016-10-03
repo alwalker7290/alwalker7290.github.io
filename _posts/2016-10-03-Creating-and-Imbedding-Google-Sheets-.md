@@ -13,6 +13,6 @@ I created a Google Sheets and I wondered "How do I embed this into one of my pos
 I searched on Google this:
 
 So I did and voilaaaaaa, this is what I got!
-<center>
+<centre>
 <iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe>
-</center>
+</centre>
