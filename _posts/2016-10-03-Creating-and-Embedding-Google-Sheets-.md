@@ -25,12 +25,16 @@ published: true
 <p> I sold each for very unique prices. But mine was cheap compared to Joss, who was sat next to me, selling planets for millions of pounds and also selling the domination of the world</p>
 <p> Incase you were wondering at first my Google Sheet looked like this...</p></td></table>
 <table>
+<td>
 <img src="https://imageshack.com/i/plsZzV0Tp"> 
+</td>
 </table>
-I searched on Google this:
+I was wondering, "How do I embed this Google Sheet onto my Github blog>"
 
 <table>
+<td>
 <img src="https://imagizer.imageshack.us/v2/1366x352q90/924/7opDcc.png">
+</td>
 </table>
 So I did and voilaaaaaa, this is what I got!
 <centre>
