@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td>Put An Image in Here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</td>
+    <td><img src="http://imagizer-cv.imageshack.us/v2/1366x352q90/924/7opDcc.png"></td>
   </tr>
 </table>
 
