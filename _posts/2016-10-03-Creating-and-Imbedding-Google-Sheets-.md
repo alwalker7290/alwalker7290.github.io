@@ -8,7 +8,7 @@ published: true
 ---
 I created a Google Sheets and I wondered "How do I embed this into one of my posts. It looked like this:
 
-<img url:https://imageshack.com/i/plsZzV0Tp> 
+<img src="https://imageshack.com/i/plsZzV0Tp"> 
 
 I searched on Google this:
 
