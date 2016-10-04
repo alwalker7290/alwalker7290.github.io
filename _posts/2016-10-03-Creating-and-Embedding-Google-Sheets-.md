@@ -6,6 +6,14 @@ permalink: /creating-and-imbedding-google-sheets-/
 source-id: 1_0ScOu84zVsmlnk2rc37qrNs6H5b5cL_revryqPWjzI
 published: true
 ---
+<table>
+  <tr>
+    <td>Title:  </td>
+    <td>Creating and Embedding Google Sheets</td>
+    <td> Date:  </td>
+    <td>30/10/16</td>
+  </tr>
+</table>
 
 <table><td><p>In my Computing lesson on Friday, 30th September, I know time flies especially if your having fun, we were trying to use basic techniques on Google Sheets because Google Sheets is a handy tool and it can be used for everything. In my case I used Google Sheets as a shop. I sold:</p>
 <ul>
