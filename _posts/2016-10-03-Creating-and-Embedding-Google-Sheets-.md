@@ -1,5 +1,5 @@
 ---
-title: Creating and Imbedding Google Sheets 
+title: Creating and Embedding Google Sheets 
 layout: post
 author: alex.walker
 permalink: /creating-and-imbedding-google-sheets-/
