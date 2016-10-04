@@ -2,7 +2,7 @@
 title: Creating and Embedding Google Sheets 
 layout: post
 author: alex.walker
-permalink: /creating-and-imbedding-google-sheets-/
+permalink: /creating-and-embedding-google-sheets-/
 source-id: 1_0ScOu84zVsmlnk2rc37qrNs6H5b5cL_revryqPWjzI
 published: true
 ---
