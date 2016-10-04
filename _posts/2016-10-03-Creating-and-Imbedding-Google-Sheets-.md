@@ -29,14 +29,25 @@ published: true
 <img src="https://imageshack.com/i/plsZzV0Tp"> 
 </td>
 </table>
-I was wondering, "How do I embed this Google Sheet onto my Github blog>"
-
+<table>
+<td>
+<p>I was wondering, "How do I embed this Google Sheet onto my Github blog?"</p>
+</td>
+</table>
 <table>
 <td>
 <img src="https://imagizer.imageshack.us/v2/1366x352q90/924/7opDcc.png">
 </td>
 </table>
+<table>
+<td>
 So I did and voilaaaaaa, this is what I got!
+</td>
+</table>
+<table>
+<td>
 <centre>
 <iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe>
 </centre>
+</td>
+</table>
