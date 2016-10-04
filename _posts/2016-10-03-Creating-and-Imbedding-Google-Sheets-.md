@@ -46,8 +46,8 @@ So I did and voilaaaaaa, this is what I got!
 </table>
 <table>
 <td>
-<centre>
+<center>
 <iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe>
-</centre>
+</center>
 </td>
 </table>
