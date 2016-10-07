@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td><img src="https://imagizer.imageshack.us/v2/1366x374q90/921/sZzV0T.png"></td>
+    <td><iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe></td>
   </tr>
 </table>
 
