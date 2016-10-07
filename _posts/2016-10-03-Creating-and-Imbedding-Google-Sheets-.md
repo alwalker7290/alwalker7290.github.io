@@ -54,7 +54,7 @@ So I did and voilaaaaaa, this is what I got!
 <table>
 <td>
 <center>
-<iframe src="https://docs.google.com/presentation/d/1H1O6SfA3v4_xarLOGk8YaZAI9I7Ev0C7aDV4cnE61r8/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1H1O6SfA3v4_xarLOGk8YaZAI9I7Ev0C7aDV4cnE61r8/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </center>
 </td>
 </table>
