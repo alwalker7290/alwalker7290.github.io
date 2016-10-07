@@ -35,7 +35,8 @@ published: true
 
 <table>
   <tr>
-    <td><iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe></td>
+    <td><center><iframe src="https://docs.google.com/spreadsheets/d/1Kdv6faxP1GgXb0eQf-W2uClGqUEVXkrym98WAmdV0MQ/pubhtml?widget=true&amp;headers=false"></iframe></center>
+    </td>
   </tr>
 </table>
 
