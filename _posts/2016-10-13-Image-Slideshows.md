@@ -45,7 +45,16 @@ published: true
      <img src="http://images.radiotimes.com/namedimage/Can_Andy_Murray_win_Wimbledon_.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/33239.jpg">
    </div>
 </div>
-                  
+  $("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow');
+},  3000);                
     
 </td>
 </table>
