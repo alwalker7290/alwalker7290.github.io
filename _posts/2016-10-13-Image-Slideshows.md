@@ -33,29 +33,30 @@ published: true
 </ul>
 <p> This is my first attempt at itand I shall leave it like this whatever happens.</p></td></table>
 <table>
-<td>  
-    <div id="slideshow">
-   <div>
-     <img src="http://images.theage.com.au/2011/02/13/2182537/svROONEY-420x0.jpg">
-   </div>
-   <div>
-     <img src="http://st1.criclife.com/wp-content/uploads/2015/01/de-villiers-hundred.jpg">
-   </div>
-   <div>
-     <img src="http://images.radiotimes.com/namedimage/Can_Andy_Murray_win_Wimbledon_.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/33239.jpg">
-   </div>
-</div>
-  $("#slideshow > div:gt(0)").hide();
+<td>             
+    <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+		<li><img src="http://images.theage.com.au/2011/02/13/2182537/svROONEY-420x0.jpg" alt="Wayne Rooney" title="Rooney Bicey Kick" id="wows1_0"/>Wayne Rooney scores a Bicycle kick</li>
+		<li><img src="http://st1.criclife.com/wp-content/uploads/2015/01/de-villiers-hundred.jpg" alt="Ab De Villiers" title="Quickest ODI Hundred" id="wows1_1"/>AB De Villiers scores the quickest ODI Hundred</li>
+		<li><img src="http://images.radiotimes.com/namedimage/Can_Andy_Murray_win_Wimbledon_.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/33239.jpg" alt="Andy Murray" title="Murray wins Wimbledon" id="wows1_2"/>Andy Murray wins Wimbledon</li>
+		<li><img src="http://i3.getwestlondon.co.uk/incoming/article11931166.ece/ALTERNATES/s1200/GettyImages-609946994.jpg" alt="Middlesex County Cricket Club" title="County Championship" id="wows1_3"/>Middlesex CC win the County Championship</li>
+		<li><img src="http://cdn.greenandgoldrugby.com/804F73/gagr/wp-content/uploads/2016/03/England-Grand-Slam-celebration-2016.jpg" alt="England" title="Win the Six Nations" id="wows1_4"/>England win the six nations</li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Rooney Bicey Kick"><span><img src="http://images.theage.com.au/2011/02/13/2182537/svROONEY-420x0.jpg" alt="Wayne Rooney"/>1</span></a>
+		<a href="#" title="Quickest ODI Hundred"><span><img src="http://st1.criclife.com/wp-content/uploads/2015/01/de-villiers-hundred.jpg" alt="Ab De Villiers"/>2</span></a>
+		<a href="#" title="Murray wins Wimbledon"><span><img src="http://images.radiotimes.com/namedimage/Can_Andy_Murray_win_Wimbledon_.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/33239.jpg" alt="Andy Murray"/>3</span></a>
+		<a href="#" title="County Championship"><span><img src="http://i3.getwestlondon.co.uk/incoming/article11931166.ece/ALTERNATES/s1200/GettyImages-609946994.jpg" alt="Middlesex County Cricket Club"/>4</span></a>
+		<a href="#" title="Win the Six Nations"><span><img src="http://cdn.greenandgoldrugby.com/804F73/gagr/wp-content/uploads/2016/03/England-Grand-Slam-celebration-2016.jpg" alt="England"/>5</span></a>
+	</div></div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
 
-setInterval(function() { 
-  $('#slideshow > div:first')
-    .fadeOut(1000)
-    .next()
-    .fadeIn(1000)
-    .end()
-    .appendTo('#slideshow');
-},  3000);                
-    
+
 </td>
 </table>
 <table>
