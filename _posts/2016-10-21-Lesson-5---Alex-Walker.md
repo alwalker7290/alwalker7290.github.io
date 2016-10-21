@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <td>Put An Image in Here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    <td><iframe src="https://docs.google.com/spreadsheets/d/1jRrwCAtXsXnrQUC4N5LkFznMy6YKqDNoLZh9nwAxsDE/pubhtml?widget=true&amp;headers=false"></iframe>
    </td>
   </tr>
 </table>
