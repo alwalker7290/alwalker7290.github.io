@@ -36,10 +36,15 @@ published: true
 <table>
   <tr>
     <td>Put An Image in Here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    Click <a href="https://agwalker7290.github.io/business---alex-walker/" target="_blank">Here for my Blog!</a></td>
+   </td>
   </tr>
 </table>
 
+<table>
+<tr>
+<td> Click <a href="https://agwalker7290.github.io/business---alex-walker/" target="_blank">Here for my Blog!</a></td>
+</tr>
+</table>
 
 <table>
   <tr>
