@@ -36,7 +36,7 @@ published: true
 <table>
   <tr>
     <td>Put An Image in Here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Click Here for info from blog 3</td>
+    Click <a href="Here for info from blog 3"></a></td>
   </tr>
 </table>
 
