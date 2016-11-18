@@ -8,7 +8,7 @@ I am a student. Thats all you need to know about me.
 
 ### More Information
 
-Im not 100 about the background!
+Im not 100% about the background!
 
 ### Contact me
 
