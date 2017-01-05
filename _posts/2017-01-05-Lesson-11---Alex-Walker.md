@@ -1,5 +1,5 @@
 ---
-title: Lesson 11 - Alex Walker
+title: Lesson 12 - Alex Walker
 layout: post
 author: alex.walker
 permalink: /lesson-11---alex-walker/
