@@ -12,19 +12,13 @@
 /**************/
 /* BASE RULES */
 /**************/
-body {
-
-table {
-    width: 100%;
-    margin-bottom: 15px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
-}
-
-iframe {
-	width: 75%;	
+iframe{
+	width: 100%;
+	height: 300px;
 }
 html {
   font-size: 100%;
+	font-family: "Times New Roman", Times, serif;
 }
 
 table, th, td {
@@ -32,7 +26,10 @@ table, th, td {
 }
 table {
     width: 100%;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
+  
 
 th {
     height: 50px;
@@ -51,9 +48,10 @@ th, td {
 }
 
 body {
+	background: url( http://www.planwallpaper.com/static/images/abstract-colourful-cool-wallpapers-55ec7905a6a4f.jpg ); 
   font: 18px/1.4 $helvetica;
-  color: #ffffff;
-	background-color: #99ddff;
+  color: #000000;
+  background-attachment: fixed;
 }
 
 .container {
@@ -66,18 +64,22 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #FF0000;
+  color: #4ddbff;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
 }
 
 h1 {
   font-size: 30px;
   a {
-    color: #FF0000;
+    color: inherit;
   }
 }
 
@@ -147,8 +149,39 @@ img {
 
 .date {
   font-style: italic;
-  color: #ff0000;
+  color: #4ddbff;
 }
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+::selection {
+  color: $black;
+  background: $lightGray;
+}
+
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+//
+// .masthead
+//
+
 .wrapper-masthead {
   margin-bottom: 50px;
 }
