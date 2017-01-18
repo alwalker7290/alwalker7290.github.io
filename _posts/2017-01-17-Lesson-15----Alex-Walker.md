@@ -1,5 +1,5 @@
 ---
-title: Copy of Lesson 10  - Alex Walker
+title: Lesson 15  - Alex Walker
 layout: post
 author: alex.walker
 permalink: /copy-of-lesson-10----alex-walker/
